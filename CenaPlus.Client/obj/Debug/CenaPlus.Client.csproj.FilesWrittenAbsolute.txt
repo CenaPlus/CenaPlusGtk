@@ -1,0 +1,12 @@
+/Users/yuno/Projects/CenaPlusForMac/CenaPlus.Client/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/yuno/Projects/CenaPlusForMac/CenaPlus.Client/obj/Debug/CenaPlus.Client.gtk-gui.gui.stetic
+/Users/yuno/Projects/CenaPlusForMac/CenaPlus.Client/bin/Debug/CenaPlus.Client.exe.mdb
+/Users/yuno/Projects/CenaPlusForMac/CenaPlus.Client/bin/Debug/CenaPlus.Client.exe
+/Users/yuno/Projects/CenaPlusForMac/CenaPlus.Client/obj/Debug/CenaPlus.Client.exe
+/Users/yuno/Projects/CenaPlusForMac/CenaPlus.Client/obj/Debug/CenaPlus.Client.exe.mdb
+/Users/yuno/Projects/CenaPlusForMac/CenaPlus.Client/bin/Debug/CenaPlus.Entity.dll
+/Users/yuno/Projects/CenaPlusForMac/CenaPlus.Client/bin/Debug/CenaPlus.Entity.dll.mdb
+/Users/yuno/Projects/CenaPlusForMac/CenaPlus.Client/bin/Debug/CenaPlus.Network.dll
+/Users/yuno/Projects/CenaPlusForMac/CenaPlus.Client/bin/Debug/CenaPlus.Network.dll.mdb
+/Users/yuno/Projects/CenaPlusForMac/CenaPlus.Client/bin/Debug/EntityFramework.dll
+/Users/yuno/Projects/CenaPlusForMac/CenaPlus.Client/bin/Debug/System.ComponentModel.DataAnnotations.dll

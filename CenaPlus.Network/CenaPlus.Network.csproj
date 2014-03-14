@@ -34,7 +34,25 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="AccessDeniedError.cs" />
+    <Compile Include="AlreadyLoggedInError.cs" />
+    <Compile Include="CenaPlusServerChannelFactory.cs" />
+    <Compile Include="ConflictError.cs" />
     <Compile Include="ICenaPlusServer.cs" />
+    <Compile Include="ICenaPlusServerCallbak.cs" />
+    <Compile Include="IJudgeNode.cs" />
+    <Compile Include="IJudgeNodeCallback.cs" />
+    <Compile Include="InvalidOperationError.cs" />
+    <Compile Include="JudgeNodeChannelFactory.cs" />
+    <Compile Include="NotFoundError.cs" />
+    <Compile Include="ServerDiscoverer.cs" />
+    <Compile Include="ValidationError.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <ProjectReference Include="..\CenaPlus.Entity\CenaPlus.Entity.csproj">
+      <Project>{E69A63CE-D236-4E4A-8429-E319BB50657B}</Project>
+      <Name>CenaPlus.Entity</Name>
+    </ProjectReference>
+  </ItemGroup>
 </Project>

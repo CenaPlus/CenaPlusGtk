@@ -1,6 +1,14 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CenaPlus.Network/ICenaPlusServer.cs">
+    <Files>
+      <File FileName="CenaPlus.Entity/User.cs" Line="1" Column="1" />
+      <File FileName="CenaPlus.Entity/Config.cs" Line="1" Column="1" />
+      <File FileName="CenaPlus.Entity/Problem.cs" Line="1" Column="1" />
+      <File FileName="CenaPlus.Network/ICenaPlusServer.cs" Line="6" Column="27" />
+      <File FileName="CenaPlus.Server/MainWindow.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

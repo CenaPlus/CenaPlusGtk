@@ -1,0 +1,9 @@
+/Users/yuno/Projects/CenaPlusForMac/CenaPlus.Network/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/yuno/Projects/CenaPlusForMac/CenaPlus.Network/bin/Debug/CenaPlus.Network.dll.mdb
+/Users/yuno/Projects/CenaPlusForMac/CenaPlus.Network/bin/Debug/CenaPlus.Network.dll
+/Users/yuno/Projects/CenaPlusForMac/CenaPlus.Network/obj/Debug/CenaPlus.Network.dll
+/Users/yuno/Projects/CenaPlusForMac/CenaPlus.Network/obj/Debug/CenaPlus.Network.dll.mdb
+/Users/yuno/Projects/CenaPlusForMac/CenaPlus.Network/bin/Debug/CenaPlus.Entity.dll
+/Users/yuno/Projects/CenaPlusForMac/CenaPlus.Network/bin/Debug/CenaPlus.Entity.dll.mdb
+/Users/yuno/Projects/CenaPlusForMac/CenaPlus.Network/bin/Debug/EntityFramework.dll
+/Users/yuno/Projects/CenaPlusForMac/CenaPlus.Network/bin/Debug/System.ComponentModel.DataAnnotations.dll
